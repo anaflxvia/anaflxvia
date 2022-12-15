@@ -14,6 +14,7 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=mysql)
 
 **Utilidades**
 
@@ -41,6 +42,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Ana Flavia](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/ana-flavia-636839141/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=ana:anaflavia.199@gmail.com)](mailto:anaflavia.199@gmail.com)
+[![Linkedin: Ana Flavia](https://img.shields.io/badge/-anaflavia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/ana-flavia-636839141/)
+[![Gmail Badge](https://img.shields.io/badge/-anaflavia.199@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=ana:anaflavia.199@gmail.com)](mailto:anaflavia.199@gmail.com)
 [![GitHub anaflxvia]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/anaflxvia)
