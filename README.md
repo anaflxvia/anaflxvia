@@ -1,5 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=anaflxvia&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
