@@ -43,4 +43,3 @@
 
 [![Linkedin: Ana Flavia](https://img.shields.io/badge/-anaflavia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/ana-flavia-636839141/)
 [![Gmail Badge](https://img.shields.io/badge/-anaflavia.199@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=ana:anaflavia.199@gmail.com)](mailto:anaflavia.199@gmail.com)
-[![GitHub anaflxvia]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/anaflxvia)
